@@ -1,4 +1,4 @@
-![Alt Text](https://youtube.com/shorts/LfeR3yAYGb8?feature=share)
+![](https://youtube.com/shorts/LfeR3yAYGb8?feature=share)
 
 # 💫 About Me:
 "I'm a junior programmer from Córdoba, Argentina, who is passionate about programming. My experience as a freelancer has allowed me to develop strong skills in various languages and technologies. I'm committed to my work and always on the lookout for new opportunities to grow professionally."
