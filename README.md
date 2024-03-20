@@ -1,5 +1,5 @@
 ![]()
-<img src="https://github.com/VictorDGauna/gif/blob/main/gif%20(1)" width="600" height="300" />
+<img src="https://github.com/VictorDGauna/gif/blob/main/gif%20(1)" width="900" height="300" />
 # 💫 About Me:
 "I'm a junior programmer from Córdoba, Argentina, who is passionate about programming. My experience as a freelancer has allowed me to develop strong skills in various languages and technologies. I'm committed to my work and always on the lookout for new opportunities to grow professionally."
 
