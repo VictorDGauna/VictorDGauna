@@ -1,6 +1,6 @@
 # 💫 About Me:
 "I'm a junior programmer from Córdoba, Argentina, who is passionate about programming. My experience as a freelancer has allowed me to develop strong skills in various languages and technologies. I'm committed to my work and always on the lookout for new opportunities to grow professionally."
-
+<image src="https://youtube.com/shorts/LfeR3yAYGb8?feature=share" />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/share/Gvi3aTxUfRHjdhb5/?mibextid=qi20mg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daniel_devs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-daniel-gauna-cordoba-argentina) 
